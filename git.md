@@ -2,8 +2,8 @@
 
 ##### 设置
 ```
-git config --global user.name "dehoo"
-git config --global user.email "shitsui@sina.com"
+git config --global user.name "username"
+git config --global user.email "example@qq.com"
 ```
 
 如果使用的GPG的验证方式，则需要添加以下一行
@@ -158,4 +158,4 @@ lg  git@github.com:Damhoo/wintest.git (push)
 # git branch -d BRANCH_NAME
 ```
 
-当把以上命令熟练运用时，你就能完全会用GIT版本控制了，也能在任何需要使用GIT的公司上班了。
+当把以上命令熟练运用时，算是会用GIT版本控制了，也基本上满足在任何需要使用GIT的公司了。
