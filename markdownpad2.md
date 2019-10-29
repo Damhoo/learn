@@ -1,0 +1,15 @@
+编写markdown的工具，看到网上很多人都在推荐使用markdownpad2，有时候因为嫌麻烦，没有下载，就直接用sublime写了，
+虽然sublime支持编写和预览markdown文件，但是总感觉没有那么好用和直观，所以就下载了markdownpad2试试手。
+
+下载试用后，果然不错，但是软件不是free的，为了能够长期使用，在网上搜集了授权信息，作下笔记，要是换电脑了或者网上的文章
+被和谐了那就麻烦了。
+
+授权邮箱：
+```
+Soar360@live.com
+```
+
+授权证书：
+```
+GBPduHjWfJU1mZqcPM3BikjYKF6xKhlKIys3i1MU2eJHqWGImDHzWdD6xhMNLGVpbP2M5SN6bnxn2kSE8qHqNY5QaaRxmO3YSMHxlv2EYpjdwLcPwfeTG7kUdnhKE0vVy4RidP6Y2wZ0q74f47fzsZo45JE2hfQBFi2O9Jldjp1mW8HUpTtLA2a5/sQytXJUQl/QKO0jUQY4pa5CCx20sV1ClOTZtAGngSOJtIOFXK599sBr5aIEFyH0K7H4BoNMiiDMnxt1rD8Vb/ikJdhGMMQr0R4B+L3nWU97eaVPTRKfWGDE8/eAgKzpGwrQQoDh+nzX1xoVQ8NAuH+s4UcSeQ==
+```
